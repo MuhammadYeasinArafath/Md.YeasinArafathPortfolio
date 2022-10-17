@@ -1,0 +1,37 @@
+.icons{
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+    position: fixed;
+    z-index: 100;
+}
+.icons ul{
+    list-style: none;
+    padding: initial;
+    background: white;
+}
+.icons ul li a{
+    color: black;
+    cursor: pointer;
+}
+.icons ul li{
+ height: 40px;
+ width: 40px;
+ list-style-type: none;
+ padding-left: 12px;
+ padding-top: 6px;
+ margin-top: 5px;
+}
+.icons ul li:hover{
+    transform: scale(2);
+}
+
+
+
+
+
+
+
+
+
+

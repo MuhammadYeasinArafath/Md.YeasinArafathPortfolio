@@ -1,0 +1,34 @@
+.textAnimation1{
+    width: 0ch;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: textAnimation1 10s infinite alternate;
+}
+@keyframes textAnimation1{
+    0%{
+        width: 0ch;
+    }
+    50%{
+        width: 14ch;
+    }
+    100%{
+        width: 0ch;
+    }
+}
+.textAnimation2{
+    width: 0ch;
+    overflow: hidden;
+    white-space: nowrap;
+    animation: textAnimation2 10s infinite alternate;
+}
+@keyframes textAnimation2{
+    0%{
+        width: 0ch;
+    }
+    50%{
+        width: 55ch;
+    }
+    100%{
+        width: 0ch;
+    }
+}

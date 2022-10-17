@@ -1,0 +1,24 @@
+@media screen and (max-width:1024px) {
+    .responsive{
+        max-width: 800px;
+        text-align: center;
+    }
+    .responsiveImg{
+        max-width: 800px;
+    }
+    .aTagMob{
+        justify-content: center;
+    }
+}
+@media screen and (max-width:600px) {
+    .responsive{
+        max-width: 500px;
+        text-align: center;
+    }
+    .responsiveImg{
+        max-width: 500px;
+    }
+    .aTagMob {
+        justify-content: center;
+    }
+}
