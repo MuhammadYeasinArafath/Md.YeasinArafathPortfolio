@@ -31,6 +31,8 @@ const About = () => {
           <p className=' mx-5 text-center'>VS Code, &nbsp; Git, &nbsp; Github, &nbsp; NPM, &nbsp; Netlify, &nbsp; Figma, &nbsp; API</p>
       <h6 className='pt-2 pb-2 custom-color fw-bold text-center'>Authentication</h6>
           <p className=' mx-5 text-center'>Firebase</p>
+      <h6 className='pt-2 pb-2 custom-color fw-bold text-center'>CMS Development</h6>
+          <p className=' mx-5 text-center'>WordPress, &nbsp; Shopify &nbsp; </p>
 
 
        {/* Currently Learning */}
@@ -53,7 +55,7 @@ const About = () => {
   {/* Responsive Intro Video */}
      <h3 className="pt-3 pb-2 custom-color fw-bold m-5 p-5 text-center">Intro Video: </h3>
                  
-                 <div class="ratio ratio-16x9  text-center">
+                 <div className="ratio ratio-16x9  text-center thumbnail">
                  <iframe
                   src="https://www.youtube.com/embed/qkXi-Zoiwjk"
                   title="YouTube video" 
