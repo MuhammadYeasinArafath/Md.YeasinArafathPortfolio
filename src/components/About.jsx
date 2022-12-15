@@ -12,7 +12,7 @@ const About = () => {
       <img src={me} alt="ME" style={{height: '120px', width: '120px'}}/>
 
       <p className="text-center lead m-5">
-        I'm a react web developer with 6+ months of experience in web development. I love creating responsive websites using ReactJS, JavaScript, HTML5, CSS3, Bootstrap5, Tailwind css and Material UI. 
+        I'm a react web developer with 6+ months of experience in web development. I love creating responsive websites using HTML5, CSS3, Bootstrap5, Reactjs, Wordpress, Shopify and Wix. 
         I enjoy converting UI designs into real websites. I've done multiple small projects to learn basics and now doing more complex projects. 
         {/* Apart form this, i'm learning flutter for my final year project (FYP) */}
       </p>
