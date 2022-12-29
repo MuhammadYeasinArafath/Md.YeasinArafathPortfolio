@@ -18,8 +18,8 @@ const Navbar = () => {
           <NavLink to='/projects' className="link me-5">Projects</NavLink>
           <br />
           <br />
-          <a href="http://www.yeasinarafathportfolio.xyz/built-with-wordpress/" target="_blank" rel="noopener noreferrer" className="link me-5">WordPress Portfolio</a>
-          <a href="https://mdyeasinarafath.wixsite.com/wixportfolio" target="_blank" rel="noopener noreferrer" className="link me-5">Wix Portfolio</a>
+          <a href="http://www.yeasinarafathportfolio.xyz/" target="_blank" rel="noopener noreferrer" className="link me-5">WordPress Portfolio</a>
+          <a href="https://mdyeasinarafath.wixsite.com/portfolio" target="_blank" rel="noopener noreferrer" className="link me-5">Wix Portfolio</a>
           <a href="https://developeryeasinarafath.blogspot.com/" target="_blank" rel="noopener noreferrer" className="link me-5">Blog</a>
         </div>
         <div>
